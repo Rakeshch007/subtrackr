@@ -1,0 +1,694 @@
+Sample Bank Statement
+Account Holder: John Doe
+Account Number: XXXX-6331
+Statement Period: 01-Oct-2024 to 09-Oct-2025
+Date Description Amount ($)
+01-Oct-2024 Venmo Payment -134.12
+01-Oct-2024 Chevron Gas -268.44
+01-Oct-2024 Thrift Store -346.29
+02-Oct-2024 Best Buy -49.51
+03-Oct-2024 Garden Center REFUND 85.38
+03-Oct-2024 Lyft Ride -56.21
+04-Oct-2024 Charity Donation -272.05
+05-Oct-2024 Spotify Refund -120.27
+06-Oct-2024 Chevron Gas -307.55
+07-Oct-2024 IKEA -288.79
+07-Oct-2024 Uber Trip -62.34
+08-Oct-2024 Gym Day Pass -97.69
+09-Oct-2024 Book Store -29.96
+09-Oct-2024 Starbucks -206.07
+10-Oct-2024 Mobile Recharge -313.58
+11-Oct-2024 Gas Station -301.85
+11-Oct-2024 Butcher Shop -273.18
+11-Oct-2024 Toy Shop -74.35
+12-Oct-2024 Thrift Store -62.94
+12-Oct-2024 Hotel Booking -313.44
+13-Oct-2024 Flight Ticket REFUND 30.22
+13-Oct-2024 Electronics Hub -165.75
+14-Oct-2024 Train Ticket -190.42
+14-Oct-2024 Shoe Outlet -310.24
+15-Oct-2024 Apple Store -178.82
+15-Oct-2024 Gas Station -285.66
+15-Oct-2024 Walmart -230.91
+16-Oct-2024 Hardware Depot -129.11
+16-Oct-2024 KFC -169.19
+17-Oct-2024 Cinema City -275.92
+19-Oct-2024 PayPal Transfer -348.54
+20-Oct-2024 Chevron Gas -315.85
+21-Oct-2024 Shell Gas Station -137.95
+23-Oct-2024 Pharmacy Express -71.28
+25-Oct-2024 Venmo Payment -220.88
+25-Oct-2024 Car Wash -175.98
+25-Oct-2024 Farmers Market REFUND 22.80
+26-Oct-2024 Gas Station -80.95
+26-Oct-2024 Gas Station -80.95
+27-Oct-2024 Water Bill -225.65
+27-Oct-2024 Bakery -80.76
+28-Oct-2024 McDonald's -315.94
+28-Oct-2024 Train Ticket -132.59
+29-Oct-2024 Home Improvement REFUND 60.66
+29-Oct-2024 Target -180.69
+30-Oct-2024 Amazon Marketplace -55.16
+31-Oct-2024 Bitbucket Subscription -3.47
+01-Nov-2024 Flight Ticket -224.83
+01-Nov-2024 IKEA -281.87
+02-Nov-2024 Amazon Marketplace -264.59
+02-Nov-2024 Convenience Store -36.64
+03-Nov-2024 Convenience Store REFUND 41.45
+03-Nov-2024 Shell Gas Station -151.00
+04-Nov-2024 Charity Donation -88.82
+04-Nov-2024 Train Ticket -262.82
+04-Nov-2024 ESPN+ Subscription -10.90
+05-Nov-2024 Chevron Gas -7.15
+05-Nov-2024 Lyft Ride -145.42
+05-Nov-2024 Bakery -196.92
+05-Nov-2024 Dropbox Subscription -12.57
+06-Nov-2024 Rocket Money Subscription -6.42
+07-Nov-2024 Peacock Subscription -7.90
+08-Nov-2024 Skillshare Subscription -11.52
+09-Nov-2024 Paramount+ Subscription -9.53
+10-Nov-2024 Liquor Store -295.87
+10-Nov-2024 Hardware Depot -194.15
+12-Nov-2024 Government Fees -268.71
+13-Nov-2024 Flight Ticket REFUND 115.73
+13-Nov-2024 Bakery -35.00
+13-Nov-2024 Shoe Outlet -205.15
+15-Nov-2024 Garden Center REFUND 81.70
+15-Nov-2024 Tax Refund -177.02
+16-Nov-2024 Pet Store -69.62
+16-Nov-2024 Garden Center REFUND 68.48
+17-Nov-2024 Best Buy -167.56
+18-Nov-2024 Pet Store -108.78
+18-Nov-2024 Convenience Store REFUND 49.02
+19-Nov-2024 Domino's Pizza -76.41
+19-Nov-2024 Venmo Payment -132.24
+21-Nov-2024 Credit Card Payment -143.87
+21-Nov-2024 Hardware Depot -172.00
+22-Nov-2024 Grammarly Subscription -30.09
+22-Nov-2024 Insurance Premium -331.71
+22-Nov-2024 Book Store -9.70
+22-Nov-2024 Book Store -9.70
+23-Nov-2024 Toy Shop -324.11
+23-Nov-2024 Pharmacy Express REFUND 77.51
+23-Nov-2024 Hardware Depot -128.92
+24-Nov-2024 Xbox Game Pass Subscription -14.65
+25-Nov-2024 Spotify Refund -122.25
+27-Nov-2024 Grocery Store REFUND 15.65
+27-Nov-2024 Amazon Marketplace -192.49
+28-Nov-2024 Dental Clinic -116.86
+28-Nov-2024 Book Store -333.42
+29-Nov-2024 Bitbucket Subscription -2.78
+29-Nov-2024 Pet Store -174.08
+29-Nov-2024 Gym Day Pass -132.31
+29-Nov-2024 McDonald's -26.57
+30-Nov-2024 Amazon Marketplace -38.99
+30-Nov-2024 Convenience Store REFUND 80.24
+01-Dec-2024 Burger King REFUND 117.78
+01-Dec-2024 ESPN+ Subscription -10.61
+02-Dec-2024 Bakery -37.28
+02-Dec-2024 Grocery Store -257.06
+03-Dec-2024 Dropbox Subscription -12.94
+03-Dec-2024 Shoe Outlet -58.90
+04-Dec-2024 Shell Gas Station -63.83
+04-Dec-2024 Subway -65.76
+04-Dec-2024 Peacock Subscription -7.65
+05-Dec-2024 Skillshare Subscription -12.96
+05-Dec-2024 Gas Station -146.43
+05-Dec-2024 Chevron Gas -295.07
+06-Dec-2024 Rocket Money Subscription -6.47
+06-Dec-2024 Movie Tickets -300.34
+06-Dec-2024 Farmers Market -80.80
+08-Dec-2024 Shoe Outlet -250.07
+10-Dec-2024 Hardware Depot -116.86
+11-Dec-2024 Paramount+ Subscription -10.18
+12-Dec-2024 Government Fees -338.73
+12-Dec-2024 McDonald's -286.72
+13-Dec-2024 Liquor Store -260.88
+13-Dec-2024 Pet Store -53.97
+13-Dec-2024 Medical Center -9.06
+14-Dec-2024 Amazon Marketplace -283.14
+14-Dec-2024 Shell Gas Station -261.37
+14-Dec-2024 Shell Gas Station REFUND 137.77
+16-Dec-2024 Farmers Market -306.52
+16-Dec-2024 Car Wash -14.04
+16-Dec-2024 Starbucks -273.09
+17-Dec-2024 Lottery -195.07
+19-Dec-2024 Grammarly Subscription -30.09
+19-Dec-2024 Starbucks -120.79
+19-Dec-2024 Spotify Refund -206.94
+20-Dec-2024 Home Improvement -233.05
+20-Dec-2024 Lyft Ride -216.97
+21-Dec-2024 Xbox Game Pass Subscription -14.99
+21-Dec-2024 Medical Center -80.12
+21-Dec-2024 Car Wash -260.43
+21-Dec-2024 Shell Gas Station -87.53
+22-Dec-2024 Proton VPN Subscription -6.48
+22-Dec-2024 Bakery -171.60
+24-Dec-2024 PayPal Transfer -7.65
+24-Dec-2024 Domino's Pizza REFUND 132.04
+24-Dec-2024 Car Wash -8.13
+25-Dec-2024 Book Store REFUND 127.06
+25-Dec-2024 Amazon Refund -105.46
+26-Dec-2024 Cinema City -216.76
+28-Dec-2024 Movie Tickets -328.90
+28-Dec-2024 Movie Tickets -328.90
+28-Dec-2024 Uber Trip REFUND 12.32
+29-Dec-2024 Electronics Hub -65.63
+30-Dec-2024 Uber Trip -295.03
+30-Dec-2024 Car Wash -37.47
+30-Dec-2024 Medical Center -236.25
+31-Dec-2024 Dropbox Subscription -14.66
+31-Dec-2024 Bitbucket Subscription -4.62
+02-Jan-2025 ESPN+ Subscription -9.66
+02-Jan-2025 Lyft Ride -325.49
+03-Jan-2025 Thrift Store -184.34
+03-Jan-2025 Peacock Subscription -6.78
+04-Jan-2025 Hotel Booking -143.09
+05-Jan-2025 Paramount+ Subscription -9.96
+05-Jan-2025 Credit Card Payment -327.38
+05-Jan-2025 Lottery -216.90
+06-Jan-2025 Chevron Gas -232.26
+06-Jan-2025 Cinema City -60.41
+06-Jan-2025 Skillshare Subscription -11.69
+08-Jan-2025 Butcher Shop -342.51
+09-Jan-2025 Parking Fine -301.62
+09-Jan-2025 Rocket Money Subscription -8.05
+09-Jan-2025 Water Bill -9.92
+09-Jan-2025 Charity Donation -292.84
+10-Jan-2025 Cloud Backup Pro Subscription -23.62
+10-Jan-2025 Dental Clinic -62.64
+11-Jan-2025 Chevron Gas -258.59
+11-Jan-2025 McDonald's -267.60
+11-Jan-2025 Uber Trip -42.08
+12-Jan-2025 Walmart -86.32
+12-Jan-2025 Toy Shop -211.15
+13-Jan-2025 Medical Center -329.60
+13-Jan-2025 Subway -186.25
+13-Jan-2025 Charity Donation -298.50
+14-Jan-2025 Movie Tickets -195.36
+14-Jan-2025 Shoe Outlet -302.69
+16-Jan-2025 Domino's Pizza -238.85
+16-Jan-2025 Target -209.34
+17-Jan-2025 Starbucks -220.74
+17-Jan-2025 Gas Station -146.93
+17-Jan-2025 Target -339.89
+18-Jan-2025 Grammarly Subscription -29.58
+18-Jan-2025 Proton VPN Subscription -4.90
+20-Jan-2025 Pet Store -117.62
+20-Jan-2025 Hardware Depot -23.19
+20-Jan-2025 Car Wash -78.34
+20-Jan-2025 Xbox Game Pass Subscription -14.53
+21-Jan-2025 ATM Withdrawal -243.66
+23-Jan-2025 Lottery -240.66
+28-Jan-2025 Bitbucket Subscription -3.63
+30-Jan-2025 Butcher Shop -230.44
+31-Jan-2025 Credit Card Payment -145.61
+01-Feb-2025 Electric Bill -163.66
+01-Feb-2025 Skillshare Subscription -13.39
+01-Feb-2025 Dropbox Subscription -14.00
+02-Feb-2025 Gas Station -61.43
+02-Feb-2025 Tax Refund -115.96
+02-Feb-2025 McDonald's -63.63
+03-Feb-2025 Shell Gas Station -205.45
+03-Feb-2025 Peacock Subscription -7.41
+04-Feb-2025 Train Ticket -137.96
+04-Feb-2025 Subway REFUND 56.52
+05-Feb-2025 ESPN+ Subscription -9.46
+05-Feb-2025 Rocket Money Subscription -6.05
+07-Feb-2025 Lyft Ride -294.81
+07-Feb-2025 Gas Station -92.01
+08-Feb-2025 Insurance Premium -287.03
+08-Feb-2025 ATM Withdrawal -254.20
+08-Feb-2025 Paramount+ Subscription -9.77
+10-Feb-2025 KFC -57.64
+10-Feb-2025 KFC -57.64
+10-Feb-2025 Gym Day Pass -47.30
+10-Feb-2025 Target -78.76
+12-Feb-2025 Butcher Shop -148.95
+12-Feb-2025 KFC -24.58
+13-Feb-2025 Car Wash -142.75
+13-Feb-2025 Movie Tickets -237.02
+13-Feb-2025 Home Improvement -202.97
+14-Feb-2025 Credit Card Payment -82.65
+14-Feb-2025 Burger King -159.45
+17-Feb-2025 Chevron Gas -8.05
+17-Feb-2025 PayPal Transfer -114.12
+17-Feb-2025 McDonald's -347.17
+18-Feb-2025 KFC -254.78
+18-Feb-2025 Grocery Store -123.52
+18-Feb-2025 Electronics Hub -83.44
+18-Feb-2025 Xbox Game Pass Subscription -15.69
+19-Feb-2025 ATM Withdrawal REFUND 14.11
+19-Feb-2025 Amazon Marketplace -171.56
+20-Feb-2025 Insurance Premium -25.16
+21-Feb-2025 Proton VPN Subscription -5.30
+22-Feb-2025 Flight Ticket -35.30
+22-Feb-2025 Grammarly Subscription -30.88
+23-Feb-2025 Subway -201.95
+23-Feb-2025 Tax Refund -229.91
+23-Feb-2025 Toy Shop -80.84
+24-Feb-2025 Lottery -151.05
+25-Feb-2025 Uber Trip -182.67
+25-Feb-2025 Book Store -151.42
+25-Feb-2025 Electric Bill -229.82
+26-Feb-2025 Uber Trip -310.07
+26-Feb-2025 Lyft Ride -206.06
+26-Feb-2025 Tax Refund REFUND 117.28
+27-Feb-2025 Target -307.34
+27-Feb-2025 Walmart -235.85
+28-Feb-2025 Bitbucket Subscription -2.38
+28-Feb-2025 Grocery Store -259.86
+01-Mar-2025 Parking Fine -241.05
+01-Mar-2025 Butcher Shop -336.99
+01-Mar-2025 Gym Day Pass -317.03
+03-Mar-2025 ESPN+ Subscription -10.76
+03-Mar-2025 Dropbox Subscription -13.26
+04-Mar-2025 Internet Payment -172.58
+04-Mar-2025 Fish Market -15.73
+04-Mar-2025 Gym Day Pass -232.40
+04-Mar-2025 Skillshare Subscription -12.34
+05-Mar-2025 Bakery -24.35
+05-Mar-2025 Peacock Subscription -7.71
+06-Mar-2025 Pet Store -294.15
+06-Mar-2025 Train Ticket -144.60
+06-Mar-2025 Train Ticket -144.60
+06-Mar-2025 Thrift Store -195.85
+08-Mar-2025 Toy Shop -58.86
+08-Mar-2025 Rocket Money Subscription -6.54
+09-Mar-2025 Farmers Market -187.07
+09-Mar-2025 Farmers Market -187.07
+09-Mar-2025 Lyft Ride -226.31
+09-Mar-2025 Spotify Refund -42.49
+10-Mar-2025 Farmers Market -198.96
+10-Mar-2025 Paramount+ Subscription -10.87
+11-Mar-2025 Apple Store -205.83
+11-Mar-2025 Burger King -59.70
+11-Mar-2025 Burger King -59.70
+11-Mar-2025 Insurance Premium -196.89
+12-Mar-2025 Garden Center -218.78
+12-Mar-2025 Liquor Store -93.53
+12-Mar-2025 Liquor Store -238.75
+14-Mar-2025 Toy Shop -328.33
+14-Mar-2025 Electric Bill -101.87
+15-Mar-2025 Electronics Hub -156.68
+16-Mar-2025 Pet Store -242.72
+16-Mar-2025 PayPal Transfer -240.15
+16-Mar-2025 Gym Day Pass -267.58
+17-Mar-2025 Pet Store -269.67
+17-Mar-2025 IKEA -141.65
+17-Mar-2025 Proton VPN Subscription -6.63
+17-Mar-2025 Subway -12.21
+18-Mar-2025 Parking Fine -189.07
+18-Mar-2025 Amazon Refund -105.28
+18-Mar-2025 Internet Payment -300.54
+19-Mar-2025 Garden Center REFUND 66.29
+21-Mar-2025 Butcher Shop -50.97
+21-Mar-2025 Convenience Store -223.41
+22-Mar-2025 Lottery -222.66
+22-Mar-2025 Grammarly Subscription -30.68
+22-Mar-2025 Garden Center -211.45
+23-Mar-2025 Xbox Game Pass Subscription -15.97
+24-Mar-2025 Farmers Market -282.13
+24-Mar-2025 Water Bill -136.94
+25-Mar-2025 Local Diner -208.41
+27-Mar-2025 Bakery -226.84
+27-Mar-2025 Gas Station -58.08
+29-Mar-2025 Dropbox Subscription -13.02
+30-Mar-2025 Tax Refund -263.60
+30-Mar-2025 Mobile Recharge -228.78
+31-Mar-2025 Shoe Outlet -252.02
+31-Mar-2025 Burger King -231.07
+01-Apr-2025 Internet Payment -132.66
+01-Apr-2025 Bitbucket Subscription -2.62
+02-Apr-2025 Pet Store -34.17
+02-Apr-2025 Amazon Marketplace REFUND 10.33
+02-Apr-2025 Peacock Subscription -6.86
+03-Apr-2025 Walmart -343.28
+03-Apr-2025 Fish Market -101.55
+04-Apr-2025 Amazon Refund -248.69
+04-Apr-2025 Farmers Market -39.71
+04-Apr-2025 ESPN+ Subscription -10.37
+05-Apr-2025 Skillshare Subscription -12.84
+05-Apr-2025 McDonald's -144.31
+05-Apr-2025 Paramount+ Subscription -9.49
+06-Apr-2025 Mobile Recharge REFUND 140.17
+08-Apr-2025 Cinema City -170.85
+08-Apr-2025 ATM Withdrawal -328.61
+08-Apr-2025 Rocket Money Subscription -5.99
+08-Apr-2025 Movie Tickets -220.29
+09-Apr-2025 Apple Store -334.84
+09-Apr-2025 PayPal Transfer -243.43
+09-Apr-2025 Apple Store -33.55
+11-Apr-2025 Local Diner -183.51
+11-Apr-2025 Lottery -69.38
+11-Apr-2025 Government Fees -107.34
+12-Apr-2025 Pharmacy Express -217.48
+12-Apr-2025 Cloud Backup Pro Subscription -23.75
+12-Apr-2025 Cinema City -310.44
+13-Apr-2025 Spotify Refund -153.62
+13-Apr-2025 Dental Clinic -84.68
+14-Apr-2025 Liquor Store -214.22
+15-Apr-2025 Gym Day Pass -102.47
+16-Apr-2025 Water Bill -347.69
+16-Apr-2025 Charity Donation -310.46
+16-Apr-2025 Charity Donation -310.46
+16-Apr-2025 Liquor Store -259.61
+17-Apr-2025 Electronics Hub -202.01
+17-Apr-2025 Proton VPN Subscription -5.43
+17-Apr-2025 Farmers Market -156.64
+17-Apr-2025 Pet Store -41.73
+18-Apr-2025 Charity Donation -310.54
+18-Apr-2025 Internet Payment -269.18
+18-Apr-2025 Gas Station -129.37
+19-Apr-2025 Electric Bill -264.18
+19-Apr-2025 Xbox Game Pass Subscription -16.14
+20-Apr-2025 Government Fees -192.38
+20-Apr-2025 Grammarly Subscription -32.34
+21-Apr-2025 PayPal Transfer REFUND 57.94
+21-Apr-2025 Government Fees -149.57
+22-Apr-2025 Domino's Pizza REFUND 12.56
+22-Apr-2025 Lottery -184.54
+23-Apr-2025 Thrift Store -167.67
+23-Apr-2025 Pet Store -140.47
+23-Apr-2025 IKEA -272.66
+24-Apr-2025 Burger King -105.40
+24-Apr-2025 Local Diner -62.72
+25-Apr-2025 ATM Withdrawal -61.67
+26-Apr-2025 Charity Donation -283.12
+26-Apr-2025 Best Buy -63.76
+26-Apr-2025 Lyft Ride -312.43
+27-Apr-2025 Parking Fine -280.28
+27-Apr-2025 Spotify Refund -134.74
+27-Apr-2025 Fish Market -231.48
+28-Apr-2025 KFC -81.84
+28-Apr-2025 Liquor Store -45.19
+29-Apr-2025 Walmart -214.41
+30-Apr-2025 Parking Fine REFUND 45.52
+01-May-2025 Skillshare Subscription -11.49
+01-May-2025 Peacock Subscription -6.20
+01-May-2025 Bitbucket Subscription -2.93
+02-May-2025 Government Fees -20.43
+02-May-2025 Home Improvement -86.95
+02-May-2025 Home Improvement -149.31
+03-May-2025 ESPN+ Subscription -9.50
+04-May-2025 Bakery -165.69
+04-May-2025 Dropbox Subscription -13.02
+04-May-2025 Liquor Store REFUND 125.30
+05-May-2025 Convenience Store -259.11
+05-May-2025 Tax Refund -236.37
+05-May-2025 Hotel Booking -220.15
+06-May-2025 Local Diner -24.14
+06-May-2025 Paramount+ Subscription -11.17
+08-May-2025 Charity Donation -45.21
+08-May-2025 Spotify Refund -267.25
+08-May-2025 Grocery Store -189.86
+09-May-2025 Insurance Premium -225.40
+09-May-2025 Home Improvement -98.00
+10-May-2025 Lyft Ride -141.15
+10-May-2025 Dental Clinic -185.66
+10-May-2025 Bakery -235.13
+10-May-2025 Rocket Money Subscription -5.83
+12-May-2025 Movie Tickets -48.76
+12-May-2025 Dental Clinic -339.69
+14-May-2025 Apple Store REFUND 109.54
+14-May-2025 Gym Day Pass -83.21
+14-May-2025 Amazon Marketplace -54.67
+15-May-2025 Cinema City -237.21
+15-May-2025 Garden Center -333.44
+16-May-2025 Local Diner REFUND 74.93
+17-May-2025 Cinema City -52.22
+18-May-2025 Proton VPN Subscription -4.97
+18-May-2025 Grammarly Subscription -29.83
+19-May-2025 Mobile Recharge -254.77
+19-May-2025 Venmo Payment -5.41
+19-May-2025 Xbox Game Pass Subscription -15.41
+19-May-2025 Gym Day Pass -85.89
+20-May-2025 Gas Station -308.83
+21-May-2025 Car Wash -250.54
+21-May-2025 ATM Withdrawal -159.89
+22-May-2025 Mobile Recharge -277.72
+23-May-2025 Flight Ticket -55.45
+23-May-2025 ATM Withdrawal REFUND 139.27
+24-May-2025 Medical Center -110.92
+24-May-2025 Target -226.54
+26-May-2025 Farmers Market -163.94
+27-May-2025 Hotel Booking -240.80
+27-May-2025 Lyft Ride -275.61
+28-May-2025 Shoe Outlet -133.99
+29-May-2025 Movie Tickets -16.48
+30-May-2025 Credit Card Payment -59.13
+30-May-2025 Hotel Booking -211.92
+30-May-2025 Bakery -285.45
+30-May-2025 Bitbucket Subscription -4.02
+31-May-2025 Lyft Ride -190.40
+31-May-2025 Bakery -97.00
+31-May-2025 Peacock Subscription -7.08
+01-Jun-2025 Dropbox Subscription -12.74
+01-Jun-2025 ESPN+ Subscription -9.91
+01-Jun-2025 Venmo Payment -110.11
+01-Jun-2025 McDonald's -285.95
+02-Jun-2025 Water Bill -288.63
+02-Jun-2025 Home Improvement -16.66
+03-Jun-2025 Charity Donation -38.48
+03-Jun-2025 Movie Tickets -233.28
+04-Jun-2025 Cinema City -319.55
+04-Jun-2025 Fish Market -236.67
+04-Jun-2025 Skillshare Subscription -13.16
+05-Jun-2025 Paramount+ Subscription -9.87
+05-Jun-2025 Venmo Payment -91.74
+05-Jun-2025 Rocket Money Subscription -5.06
+06-Jun-2025 Dental Clinic -11.46
+06-Jun-2025 Burger King -210.54
+07-Jun-2025 Amazon Marketplace -17.09
+07-Jun-2025 Thrift Store -192.92
+08-Jun-2025 Amazon Refund -239.35
+09-Jun-2025 Garden Center -137.35
+09-Jun-2025 Cinema City -5.34
+09-Jun-2025 Hotel Booking REFUND 14.35
+10-Jun-2025 Charity Donation REFUND 116.11
+10-Jun-2025 Venmo Payment -5.28
+10-Jun-2025 Gas Station -144.92
+11-Jun-2025 Electronics Hub -276.87
+11-Jun-2025 Subway REFUND 37.38
+11-Jun-2025 Burger King -68.45
+13-Jun-2025 Grocery Store -115.17
+13-Jun-2025 Car Wash -91.37
+14-Jun-2025 Government Fees -69.61
+14-Jun-2025 Water Bill -244.68
+15-Jun-2025 Book Store -6.97
+15-Jun-2025 Book Store -6.97
+17-Jun-2025 Target -107.79
+17-Jun-2025 Lottery -16.82
+18-Jun-2025 Spotify Refund -156.34
+18-Jun-2025 Burger King -6.14
+19-Jun-2025 Grammarly Subscription -32.21
+19-Jun-2025 Xbox Game Pass Subscription -15.28
+19-Jun-2025 IKEA -12.99
+20-Jun-2025 Hotel Booking -328.09
+20-Jun-2025 Home Improvement -203.68
+21-Jun-2025 Garden Center -223.80
+21-Jun-2025 Proton VPN Subscription -6.20
+21-Jun-2025 Target -201.00
+21-Jun-2025 Butcher Shop -169.94
+22-Jun-2025 Credit Card Payment -107.41
+22-Jun-2025 Hotel Booking -99.43
+23-Jun-2025 Tax Refund -35.10
+23-Jun-2025 PayPal Transfer -335.85
+24-Jun-2025 Lottery -87.29
+24-Jun-2025 Farmers Market -145.33
+25-Jun-2025 Gas Station -290.40
+25-Jun-2025 Amazon Refund -31.44
+26-Jun-2025 Pet Store -197.52
+26-Jun-2025 Butcher Shop -166.87
+27-Jun-2025 Fish Market -43.75
+29-Jun-2025 KFC -155.32
+29-Jun-2025 Home Improvement -230.94
+30-Jun-2025 Subway -317.12
+01-Jul-2025 Farmers Market -103.66
+01-Jul-2025 Peacock Subscription -7.66
+01-Jul-2025 Pet Store -299.18
+01-Jul-2025 Subway -348.31
+02-Jul-2025 Parking Fine -7.37
+02-Jul-2025 Subway REFUND 144.91
+02-Jul-2025 IKEA -348.22
+03-Jul-2025 Bitbucket Subscription -3.32
+04-Jul-2025 ATM Withdrawal -107.21
+04-Jul-2025 ESPN+ Subscription -9.65
+04-Jul-2025 Skillshare Subscription -12.66
+04-Jul-2025 Local Diner REFUND 34.07
+04-Jul-2025 Parking Fine -169.00
+05-Jul-2025 Pharmacy Express -339.37
+05-Jul-2025 Local Diner -274.81
+05-Jul-2025 Water Bill -195.60
+06-Jul-2025 Shoe Outlet -138.15
+06-Jul-2025 Paramount+ Subscription -11.39
+07-Jul-2025 Rocket Money Subscription -4.93
+08-Jul-2025 Charity Donation -277.56
+08-Jul-2025 Target -98.61
+08-Jul-2025 Tax Refund -156.15
+09-Jul-2025 Internet Payment -216.33
+09-Jul-2025 Lyft Ride -68.97
+09-Jul-2025 Liquor Store -13.41
+09-Jul-2025 Cloud Backup Pro Subscription -25.82
+10-Jul-2025 Government Fees -121.32
+10-Jul-2025 Gas Station -113.88
+11-Jul-2025 Convenience Store -114.49
+13-Jul-2025 Book Store -270.58
+14-Jul-2025 Spotify Refund REFUND 122.95
+14-Jul-2025 Bakery -250.26
+15-Jul-2025 Movie Tickets -188.94
+15-Jul-2025 Fish Market -72.21
+16-Jul-2025 Mobile Recharge -245.63
+17-Jul-2025 Xbox Game Pass Subscription -15.16
+17-Jul-2025 Medical Center -80.30
+18-Jul-2025 Walmart -97.47
+19-Jul-2025 Movie Tickets REFUND 148.43
+19-Jul-2025 Walmart -339.68
+19-Jul-2025 Amazon Refund -218.47
+20-Jul-2025 Proton VPN Subscription -6.37
+20-Jul-2025 Hotel Booking -175.62
+20-Jul-2025 Hardware Depot -244.17
+21-Jul-2025 Convenience Store -29.30
+22-Jul-2025 Grammarly Subscription -30.37
+22-Jul-2025 Home Improvement -303.64
+22-Jul-2025 Electric Bill -92.91
+23-Jul-2025 IKEA -30.67
+23-Jul-2025 Best Buy -200.15
+24-Jul-2025 Hotel Booking -73.51
+25-Jul-2025 Toy Shop -160.52
+25-Jul-2025 PayPal Transfer -239.90
+25-Jul-2025 Insurance Premium -260.91
+26-Jul-2025 Credit Card Payment -63.40
+26-Jul-2025 Electric Bill -246.97
+27-Jul-2025 Electric Bill -335.66
+27-Jul-2025 Water Bill -252.54
+28-Jul-2025 Dropbox Subscription -12.86
+28-Jul-2025 Local Diner -246.13
+28-Jul-2025 Toy Shop -330.51
+29-Jul-2025 Lyft Ride -340.64
+29-Jul-2025 Bitbucket Subscription -3.93
+30-Jul-2025 Skillshare Subscription -12.66
+31-Jul-2025 Starbucks -21.34
+31-Jul-2025 Dental Clinic -239.91
+31-Jul-2025 Charity Donation -68.18
+02-Aug-2025 ESPN+ Subscription -11.32
+02-Aug-2025 Peacock Subscription -7.04
+03-Aug-2025 Paramount+ Subscription -10.71
+03-Aug-2025 Amazon Marketplace -341.75
+04-Aug-2025 Medical Center -260.87
+05-Aug-2025 Flight Ticket -148.70
+05-Aug-2025 Electric Bill -296.04
+05-Aug-2025 Government Fees -80.55
+06-Aug-2025 Internet Payment -142.31
+07-Aug-2025 Rocket Money Subscription -5.09
+07-Aug-2025 Starbucks -219.58
+08-Aug-2025 KFC -141.34
+09-Aug-2025 Cinema City -102.25
+09-Aug-2025 Walmart -205.26
+09-Aug-2025 Starbucks -26.85
+10-Aug-2025 Bakery -184.91
+10-Aug-2025 Dental Clinic -7.26
+10-Aug-2025 Spotify Refund -249.13
+11-Aug-2025 Book Store -67.42
+11-Aug-2025 Parking Fine REFUND 46.83
+12-Aug-2025 Walmart -27.08
+12-Aug-2025 Butcher Shop -225.23
+12-Aug-2025 Cinema City REFUND 62.85
+13-Aug-2025 Bakery -149.04
+13-Aug-2025 Best Buy REFUND 93.07
+13-Aug-2025 Apple Store -270.89
+14-Aug-2025 Domino's Pizza -32.75
+14-Aug-2025 Thrift Store REFUND 51.49
+14-Aug-2025 Convenience Store -158.58
+15-Aug-2025 Liquor Store -284.88
+15-Aug-2025 Bakery -89.47
+15-Aug-2025 PayPal Transfer -213.46
+15-Aug-2025 Proton VPN Subscription -6.15
+17-Aug-2025 Movie Tickets -188.94
+17-Aug-2025 Insurance Premium -51.96
+17-Aug-2025 Credit Card Payment -325.85
+18-Aug-2025 Movie Tickets -172.62
+18-Aug-2025 Grammarly Subscription -33.57
+20-Aug-2025 Xbox Game Pass Subscription -14.93
+20-Aug-2025 Movie Tickets -181.85
+21-Aug-2025 Charity Donation -226.89
+21-Aug-2025 Apple Store -285.02
+22-Aug-2025 Train Ticket -70.86
+22-Aug-2025 ATM Withdrawal -255.47
+23-Aug-2025 Government Fees -113.30
+23-Aug-2025 Train Ticket REFUND 74.98
+23-Aug-2025 Tax Refund -235.47
+26-Aug-2025 KFC -169.18
+26-Aug-2025 Butcher Shop -122.60
+28-Aug-2025 Bitbucket Subscription -2.70
+28-Aug-2025 ESPN+ Subscription -9.53
+29-Aug-2025 Peacock Subscription -7.91
+29-Aug-2025 Electronics Hub -34.80
+30-Aug-2025 Fish Market -34.36
+30-Aug-2025 Amazon Marketplace -195.97
+31-Aug-2025 Mobile Recharge -192.20
+31-Aug-2025 Toy Shop -151.66
+31-Aug-2025 Gas Station -239.15
+31-Aug-2025 Mobile Recharge -192.20
+31-Aug-2025 Dropbox Subscription -11.92
+01-Sep-2025 Government Fees -208.89
+02-Sep-2025 KFC -236.74
+02-Sep-2025 Paramount+ Subscription -10.12
+02-Sep-2025 Skillshare Subscription -12.94
+03-Sep-2025 Gas Station -46.40
+04-Sep-2025 Tax Refund REFUND 86.79
+04-Sep-2025 Parking Fine -298.40
+05-Sep-2025 Mobile Recharge -244.23
+05-Sep-2025 Insurance Premium -124.44
+05-Sep-2025 Lottery -199.69
+06-Sep-2025 Mobile Recharge REFUND 27.57
+08-Sep-2025 Book Store -273.73
+08-Sep-2025 Target -229.85
+08-Sep-2025 Subway -219.43
+10-Sep-2025 Chevron Gas -94.29
+10-Sep-2025 Car Wash -227.92
+10-Sep-2025 Insurance Premium -137.32
+11-Sep-2025 Uber Trip -295.74
+11-Sep-2025 Best Buy -80.35
+12-Sep-2025 Walmart -67.77
+12-Sep-2025 Spotify Refund -41.65
+13-Sep-2025 Liquor Store -259.41
+13-Sep-2025 Car Wash -325.61
+14-Sep-2025 Grocery Store -230.38
+14-Sep-2025 Starbucks -308.18
+14-Sep-2025 Proton VPN Subscription -5.79
+15-Sep-2025 Chevron Gas REFUND 59.00
+16-Sep-2025 Credit Card Payment -270.37
+16-Sep-2025 Home Improvement -27.25
+18-Sep-2025 Fish Market -170.77
+19-Sep-2025 Fish Market -55.33
+19-Sep-2025 Movie Tickets -14.74
+19-Sep-2025 Starbucks -171.10
+20-Sep-2025 Starbucks -33.18
+20-Sep-2025 Grammarly Subscription -34.11
+20-Sep-2025 Cinema City -7.54
+20-Sep-2025 Domino's Pizza -61.00
+21-Sep-2025 Xbox Game Pass Subscription -16.52
+21-Sep-2025 Grocery Store REFUND 67.59
+21-Sep-2025 Lottery -154.97
+23-Sep-2025 Tax Refund -317.82
+23-Sep-2025 Amazon Refund -318.84
+23-Sep-2025 Parking Fine -142.62
+24-Sep-2025 Bakery -340.26
+25-Sep-2025 Dropbox Subscription -13.50
+25-Sep-2025 Venmo Payment -306.04
+26-Sep-2025 Bitbucket Subscription -2.47
+27-Sep-2025 Toy Shop -183.46
+27-Sep-2025 Electronics Hub -280.27
+27-Sep-2025 ESPN+ Subscription -9.62
+28-Sep-2025 Farmers Market -120.11
+28-Sep-2025 Skillshare Subscription -12.30
+29-Sep-2025 Shoe Outlet -81.85
+29-Sep-2025 Medical Center -87.39
+30-Sep-2025 Mobile Recharge -282.22
+30-Sep-2025 Butcher Shop -215.11
+30-Sep-2025 Fish Market -74.05
+01-Oct-2025 Shell Gas Station -341.68
+02-Oct-2025 Paramount+ Subscription -10.84
+02-Oct-2025 Peacock Subscription -7.02
+03-Oct-2025 Rocket Money Subscription -5.18

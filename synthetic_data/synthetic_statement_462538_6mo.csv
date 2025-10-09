@@ -1,0 +1,337 @@
+date,description,amount,currency,type
+2025-04-01,Shell Gas Station,-247.45,USD,debit
+2025-04-01,Home Improvement,-241.87,USD,debit
+2025-04-01,Water Bill,-106.03,USD,debit
+2025-04-02,Venmo Payment,-79.66,USD,debit
+2025-04-02,Venmo Payment,-293.45,USD,debit
+2025-04-03,Pet Store,-183.56,USD,debit
+2025-04-03,Government Fees,-325.12,USD,debit
+2025-04-03,Chevron Gas,-9.56,USD,debit
+2025-04-04,Fish Market,-283.39,USD,debit
+2025-04-05,Farmers Market,-296.1,USD,debit
+2025-04-05,Grocery Store,-211.31,USD,debit
+2025-04-06,Gas Station,-150.51,USD,debit
+2025-04-06,Amazon Marketplace,-251.53,USD,debit
+2025-04-06,Local Diner,-42.49,USD,debit
+2025-04-07,Grocery Store,-97.65,USD,debit
+2025-04-07,Venmo Payment,-84.64,USD,debit
+2025-04-07,Toy Shop,-17.22,USD,debit
+2025-04-08,Target,-310.55,USD,debit
+2025-04-08,Amazon Refund,-201.21,USD,debit
+2025-04-09,PayPal Transfer,-71.11,USD,debit
+2025-04-09,Pet Store,-48.61,USD,debit
+2025-04-10,Garden Center,-99.56,USD,debit
+2025-04-10,Convenience Store,-250.54,USD,debit
+2025-04-10,Amazon Marketplace,-50.48,USD,debit
+2025-04-11,Car Wash,-210.9,USD,debit
+2025-04-11,Shoe Outlet,-176.16,USD,debit
+2025-04-11,Convenience Store,-162.72,USD,debit
+2025-04-12,Car Wash,-95.11,USD,debit
+2025-04-12,Domino's Pizza,-250.54,USD,debit
+2025-04-13,Spotify Refund,-344.99,USD,debit
+2025-04-13,Uber Trip,-137.2,USD,debit
+2025-04-14,Electric Bill,-48.45,USD,debit
+2025-04-16,Amazon Marketplace,-22.5,USD,debit
+2025-04-18,Starbucks,-333.82,USD,debit
+2025-04-19,Parking Fine,-180.69,USD,debit
+2025-04-20,Water Bill,-228.51,USD,debit
+2025-04-20,Book Store,-337.07,USD,debit
+2025-04-20,Venmo Payment,-40.9,USD,debit
+2025-04-21,Dental Clinic,-296.82,USD,debit
+2025-04-21,Charity Donation,-185.42,USD,debit
+2025-04-24,Domino's Pizza,-317.66,USD,debit
+2025-04-25,Government Fees,-266.46,USD,debit
+2025-04-25,Water Bill,-169.53,USD,debit
+2025-04-25,Apple Store,-147.1,USD,debit
+2025-04-26,Internet Payment,-63.71,USD,debit
+2025-04-27,Target,-51.56,USD,debit
+2025-04-29,Car Wash,-290.33,USD,debit
+2025-04-29,Butcher Shop,-327.15,USD,debit
+2025-04-30,McDonald's,-35.81,USD,debit
+2025-04-30,Medical Center,-68.6,USD,debit
+2025-05-01,Headspace Subscription,-8.79,USD,debit
+2025-05-03,Burger King,-65.93,USD,debit
+2025-05-03,Bakery,-214.78,USD,debit
+2025-05-03,Venmo Payment,-277.66,USD,debit
+2025-05-04,Walmart+ Subscription,-12.71,USD,debit
+2025-05-04,Azure Subscription,-24.46,USD,debit
+2025-05-05,Parking Fine,-242.18,USD,debit
+2025-05-06,Medical Center,-87.28,USD,debit
+2025-05-06,Movie Tickets,-30.18,USD,debit
+2025-05-08,Hardware Depot,-134.64,USD,debit
+2025-05-08,Chevron Gas,-115.46,USD,debit
+2025-05-09,Insurance Premium,-211.7,USD,debit
+2025-05-09,Notion Subscription,-7.45,USD,debit
+2025-05-10,Asana Subscription,-13.84,USD,debit
+2025-05-10,Pharmacy Express,-110.08,USD,debit
+2025-05-10,Liquor Store,-231.38,USD,debit
+2025-05-10,ATM Withdrawal REFUND,45.05,USD,credit
+2025-05-11,QuickBooks Subscription,-27.81,USD,debit
+2025-05-11,Water Bill,-316.52,USD,debit
+2025-05-11,Subway,-216.88,USD,debit
+2025-05-11,Fastmail Subscription,-4.5,USD,debit
+2025-05-12,Electric Bill REFUND,87.67,USD,credit
+2025-05-12,Uber Trip,-275.08,USD,debit
+2025-05-13,Best Buy,-206.86,USD,debit
+2025-05-14,Pharmacy Express,-192.34,USD,debit
+2025-05-14,Pharmacy Express,-54.74,USD,debit
+2025-05-14,Hotel Booking,-290.31,USD,debit
+2025-05-15,Tax Refund,-43.84,USD,debit
+2025-05-15,Parking Fine,-105.22,USD,debit
+2025-05-15,Financial Times Subscription,-16.95,USD,debit
+2025-05-15,Local Diner,-214.34,USD,debit
+2025-05-16,Target,-108.89,USD,debit
+2025-05-17,Gym Day Pass,-180.82,USD,debit
+2025-05-17,Amazon Refund,-216.94,USD,debit
+2025-05-17,ExpressVPN Subscription,-14.08,USD,debit
+2025-05-18,McDonald's,-277.86,USD,debit
+2025-05-18,Home Improvement REFUND,127.37,USD,credit
+2025-05-19,Apple Store,-289.92,USD,debit
+2025-05-19,Shell Gas Station REFUND,122.19,USD,credit
+2025-05-20,Toy Shop,-310.71,USD,debit
+2025-05-20,Book Store,-225.18,USD,debit
+2025-05-20,Lyft Ride,-204.33,USD,debit
+2025-05-21,Amazon Refund,-92.77,USD,debit
+2025-05-21,Bitbucket Subscription,-5.14,USD,debit
+2025-05-21,Hardware Depot,-96.24,USD,debit
+2025-05-22,IKEA,-24.74,USD,debit
+2025-05-22,Electric Bill,-68.68,USD,debit
+2025-05-22,Proton VPN Subscription,-5.77,USD,debit
+2025-05-23,Farmers Market,-229.88,USD,debit
+2025-05-23,Liquor Store,-100.04,USD,debit
+2025-05-23,Car Wash,-168.81,USD,debit
+2025-05-24,Thrift Store,-69.31,USD,debit
+2025-05-24,Tax Refund REFUND,28.26,USD,credit
+2025-05-24,Convenience Store,-125.0,USD,debit
+2025-05-25,Farmers Market,-325.47,USD,debit
+2025-05-25,Bakery,-277.0,USD,debit
+2025-05-25,Government Fees,-263.67,USD,debit
+2025-05-26,Bakery,-71.24,USD,debit
+2025-05-26,Chevron Gas,-333.2,USD,debit
+2025-05-27,Thrift Store,-44.09,USD,debit
+2025-05-27,Lottery,-193.71,USD,debit
+2025-05-28,Tax Refund,-71.15,USD,debit
+2025-05-28,Hotel Booking,-14.77,USD,debit
+2025-05-28,Target,-197.65,USD,debit
+2025-05-31,Book Store,-243.03,USD,debit
+2025-05-31,Water Bill,-54.82,USD,debit
+2025-05-31,Headspace Subscription,-7.88,USD,debit
+2025-05-31,Grocery Store,-63.5,USD,debit
+2025-06-01,Pharmacy Express,-79.08,USD,debit
+2025-06-02,Azure Subscription,-25.98,USD,debit
+2025-06-02,Hardware Depot,-58.31,USD,debit
+2025-06-02,Electric Bill,-313.04,USD,debit
+2025-06-02,Internet Payment,-26.0,USD,debit
+2025-06-04,Gym Day Pass,-227.7,USD,debit
+2025-06-04,Toy Shop,-210.9,USD,debit
+2025-06-04,QuickBooks Subscription,-24.62,USD,debit
+2025-06-06,Fastmail Subscription,-3.73,USD,debit
+2025-06-06,Chevron Gas,-216.12,USD,debit
+2025-06-06,Lyft Ride,-258.37,USD,debit
+2025-06-06,Walmart+ Subscription,-12.36,USD,debit
+2025-06-08,Farmers Market,-93.29,USD,debit
+2025-06-08,Pharmacy Express,-323.48,USD,debit
+2025-06-08,Grocery Store,-69.65,USD,debit
+2025-06-10,Convenience Store,-293.65,USD,debit
+2025-06-10,Notion Subscription,-7.94,USD,debit
+2025-06-10,Asana Subscription,-12.95,USD,debit
+2025-06-11,Hotel Booking,-96.98,USD,debit
+2025-06-11,Venmo Payment,-268.42,USD,debit
+2025-06-11,Shoe Outlet REFUND,56.49,USD,credit
+2025-06-13,Electronics Hub REFUND,37.93,USD,credit
+2025-06-13,Amazon Refund,-166.18,USD,debit
+2025-06-13,Financial Times Subscription,-17.13,USD,debit
+2025-06-15,Pet Store,-255.37,USD,debit
+2025-06-15,Amazon Marketplace REFUND,129.56,USD,credit
+2025-06-16,Target,-120.4,USD,debit
+2025-06-17,ExpressVPN Subscription,-13.02,USD,debit
+2025-06-18,Local Diner,-320.99,USD,debit
+2025-06-18,Local Diner,-183.51,USD,debit
+2025-06-19,Best Buy,-203.65,USD,debit
+2025-06-19,Flight Ticket,-302.97,USD,debit
+2025-06-20,Amazon Refund,-23.71,USD,debit
+2025-06-20,Movie Tickets,-216.09,USD,debit
+2025-06-22,Domino's Pizza,-115.06,USD,debit
+2025-06-23,McDonald's,-269.47,USD,debit
+2025-06-23,McDonald's,-263.92,USD,debit
+2025-06-23,Best Buy REFUND,94.64,USD,credit
+2025-06-23,Proton VPN Subscription,-4.61,USD,debit
+2025-06-24,Insurance Premium,-262.04,USD,debit
+2025-06-24,Water Bill,-324.86,USD,debit
+2025-06-26,PayPal Transfer,-325.77,USD,debit
+2025-06-26,Garden Center,-249.45,USD,debit
+2025-06-26,Insurance Premium,-287.96,USD,debit
+2025-06-28,IKEA REFUND,83.31,USD,credit
+2025-06-28,Shell Gas Station,-284.4,USD,debit
+2025-06-28,Car Wash REFUND,107.65,USD,credit
+2025-06-29,Lottery,-214.52,USD,debit
+2025-07-01,Butcher Shop,-15.08,USD,debit
+2025-07-01,Subway,-126.01,USD,debit
+2025-07-01,Butcher Shop,-15.08,USD,debit
+2025-07-03,Local Diner,-333.55,USD,debit
+2025-07-03,Gas Station,-123.09,USD,debit
+2025-07-04,Apple Store REFUND,119.5,USD,credit
+2025-07-04,Liquor Store,-245.3,USD,debit
+2025-07-05,Azure Subscription,-25.56,USD,debit
+2025-07-05,Credit Card Payment,-37.88,USD,debit
+2025-07-05,Venmo Payment,-43.38,USD,debit
+2025-07-06,Apple Store,-42.5,USD,debit
+2025-07-06,Walmart,-282.98,USD,debit
+2025-07-08,Flight Ticket,-247.53,USD,debit
+2025-07-08,Walmart+ Subscription,-13.19,USD,debit
+2025-07-08,QuickBooks Subscription,-24.95,USD,debit
+2025-07-09,Fastmail Subscription,-4.05,USD,debit
+2025-07-09,Thrift Store,-107.78,USD,debit
+2025-07-10,Domino's Pizza,-122.73,USD,debit
+2025-07-10,Farmers Market,-74.3,USD,debit
+2025-07-10,Asana Subscription,-13.72,USD,debit
+2025-07-11,Movie Tickets,-210.38,USD,debit
+2025-07-11,PayPal Transfer,-167.85,USD,debit
+2025-07-11,Burger King,-249.99,USD,debit
+2025-07-12,Hotel Booking,-146.84,USD,debit
+2025-07-13,Notion Subscription,-8.97,USD,debit
+2025-07-14,ExpressVPN Subscription,-13.81,USD,debit
+2025-07-14,Garden Center,-54.16,USD,debit
+2025-07-15,PayPal Transfer,-309.05,USD,debit
+2025-07-15,Hardware Depot,-310.4,USD,debit
+2025-07-16,Venmo Payment,-223.59,USD,debit
+2025-07-16,Venmo Payment,-223.59,USD,debit
+2025-07-17,Proton VPN Subscription,-4.43,USD,debit
+2025-07-18,Domino's Pizza,-187.89,USD,debit
+2025-07-18,IKEA,-59.12,USD,debit
+2025-07-20,Car Wash,-333.4,USD,debit
+2025-07-21,KFC REFUND,102.45,USD,credit
+2025-07-21,Grocery Store,-180.73,USD,debit
+2025-07-21,KFC,-164.8,USD,debit
+2025-07-23,Spotify Refund,-114.65,USD,debit
+2025-07-23,Bitbucket Subscription,-4.06,USD,debit
+2025-07-23,Home Improvement,-76.72,USD,debit
+2025-07-24,IKEA,-124.15,USD,debit
+2025-07-24,Parking Fine,-75.28,USD,debit
+2025-07-25,Gas Station,-334.84,USD,debit
+2025-07-25,Government Fees,-131.4,USD,debit
+2025-07-27,Butcher Shop,-188.71,USD,debit
+2025-07-27,Tax Refund,-103.84,USD,debit
+2025-07-28,Uber Trip,-124.86,USD,debit
+2025-07-28,Water Bill REFUND,29.5,USD,credit
+2025-07-29,Target,-198.73,USD,debit
+2025-07-29,Car Wash REFUND,62.32,USD,credit
+2025-07-29,Internet Payment,-25.31,USD,debit
+2025-07-30,Electronics Hub,-299.31,USD,debit
+2025-07-30,Credit Card Payment,-129.28,USD,debit
+2025-07-31,Dental Clinic,-94.43,USD,debit
+2025-08-01,Grocery Store,-112.59,USD,debit
+2025-08-01,Headspace Subscription,-7.55,USD,debit
+2025-08-01,Azure Subscription,-24.6,USD,debit
+2025-08-03,Walmart,-307.91,USD,debit
+2025-08-06,Mobile Recharge,-19.74,USD,debit
+2025-08-06,Liquor Store,-206.34,USD,debit
+2025-08-06,Lyft Ride REFUND,41.25,USD,credit
+2025-08-06,Fastmail Subscription,-3.9,USD,debit
+2025-08-08,Venmo Payment,-257.96,USD,debit
+2025-08-08,Book Store REFUND,44.59,USD,credit
+2025-08-08,IKEA,-137.69,USD,debit
+2025-08-08,Asana Subscription,-14.41,USD,debit
+2025-08-09,Lottery,-10.3,USD,debit
+2025-08-09,KFC,-88.11,USD,debit
+2025-08-09,Notion Subscription,-9.21,USD,debit
+2025-08-09,QuickBooks Subscription,-26.86,USD,debit
+2025-08-11,Chevron Gas,-286.35,USD,debit
+2025-08-11,Medical Center,-200.86,USD,debit
+2025-08-11,Financial Times Subscription,-16.92,USD,debit
+2025-08-12,Target,-344.7,USD,debit
+2025-08-12,Tax Refund,-347.51,USD,debit
+2025-08-13,Electronics Hub,-313.28,USD,debit
+2025-08-14,ExpressVPN Subscription,-13.01,USD,debit
+2025-08-15,Flight Ticket,-302.11,USD,debit
+2025-08-17,Electronics Hub,-248.35,USD,debit
+2025-08-17,Hotel Booking,-186.06,USD,debit
+2025-08-18,Water Bill,-154.71,USD,debit
+2025-08-18,Home Improvement,-26.67,USD,debit
+2025-08-19,Hotel Booking REFUND,58.87,USD,credit
+2025-08-20,Grocery Store,-107.58,USD,debit
+2025-08-21,IKEA,-93.85,USD,debit
+2025-08-21,Proton VPN Subscription,-5.38,USD,debit
+2025-08-21,Bitbucket Subscription,-3.96,USD,debit
+2025-08-24,Electronics Hub REFUND,23.67,USD,credit
+2025-08-24,Government Fees,-327.29,USD,debit
+2025-08-26,Book Store,-212.65,USD,debit
+2025-08-26,Insurance Premium,-219.55,USD,debit
+2025-08-27,Credit Card Payment,-329.0,USD,debit
+2025-08-27,Flight Ticket,-346.67,USD,debit
+2025-08-30,Amazon Marketplace,-115.99,USD,debit
+2025-08-31,Azure Subscription,-25.21,USD,debit
+2025-08-31,Book Store,-170.19,USD,debit
+2025-08-31,Internet Payment,-307.65,USD,debit
+2025-08-31,Parking Fine,-208.17,USD,debit
+2025-09-01,Shoe Outlet,-269.08,USD,debit
+2025-09-01,Home Improvement,-81.07,USD,debit
+2025-09-01,KFC,-187.74,USD,debit
+2025-09-02,Credit Card Payment,-138.54,USD,debit
+2025-09-02,KFC,-7.71,USD,debit
+2025-09-02,Tax Refund,-160.22,USD,debit
+2025-09-03,Burger King,-79.1,USD,debit
+2025-09-03,Subway,-307.47,USD,debit
+2025-09-03,Water Bill REFUND,130.44,USD,credit
+2025-09-04,Headspace Subscription,-8.46,USD,debit
+2025-09-04,Walmart+ Subscription,-13.58,USD,debit
+2025-09-05,Government Fees,-195.96,USD,debit
+2025-09-05,Pet Store,-144.86,USD,debit
+2025-09-06,Movie Tickets,-114.74,USD,debit
+2025-09-07,Tax Refund,-245.51,USD,debit
+2025-09-07,Liquor Store,-191.02,USD,debit
+2025-09-08,Notion Subscription,-10.66,USD,debit
+2025-09-08,Parking Fine,-183.6,USD,debit
+2025-09-09,Convenience Store,-318.29,USD,debit
+2025-09-09,Pet Store,-56.54,USD,debit
+2025-09-09,Domino's Pizza,-229.33,USD,debit
+2025-09-09,Fastmail Subscription,-3.84,USD,debit
+2025-09-10,Water Bill,-115.09,USD,debit
+2025-09-10,Bakery REFUND,121.21,USD,credit
+2025-09-10,Gas Station,-236.56,USD,debit
+2025-09-11,Amazon Marketplace,-274.99,USD,debit
+2025-09-11,Financial Times Subscription,-17.13,USD,debit
+2025-09-11,Car Wash,-253.59,USD,debit
+2025-09-12,ExpressVPN Subscription,-13.37,USD,debit
+2025-09-12,Tax Refund,-345.21,USD,debit
+2025-09-12,Bakery,-222.94,USD,debit
+2025-09-13,Fish Market,-61.87,USD,debit
+2025-09-13,Electronics Hub,-185.06,USD,debit
+2025-09-13,Spotify Refund,-72.42,USD,debit
+2025-09-15,Gas Station,-155.13,USD,debit
+2025-09-16,Shell Gas Station,-6.87,USD,debit
+2025-09-16,Shell Gas Station,-12.72,USD,debit
+2025-09-17,Medical Center REFUND,75.4,USD,credit
+2025-09-17,Gym Day Pass,-51.76,USD,debit
+2025-09-18,Lyft Ride,-304.94,USD,debit
+2025-09-19,Burger King,-50.57,USD,debit
+2025-09-19,Venmo Payment,-334.88,USD,debit
+2025-09-19,Starbucks,-52.74,USD,debit
+2025-09-19,Proton VPN Subscription,-6.08,USD,debit
+2025-09-20,Government Fees,-137.72,USD,debit
+2025-09-20,Government Fees,-137.72,USD,debit
+2025-09-20,KFC,-65.0,USD,debit
+2025-09-20,Train Ticket,-209.04,USD,debit
+2025-09-21,Bitbucket Subscription,-3.32,USD,debit
+2025-09-22,Amazon Marketplace,-238.7,USD,debit
+2025-09-22,McDonald's,-256.31,USD,debit
+2025-09-22,Train Ticket,-26.07,USD,debit
+2025-09-25,Liquor Store,-30.5,USD,debit
+2025-09-25,Dental Clinic,-69.37,USD,debit
+2025-09-25,Gym Day Pass,-119.94,USD,debit
+2025-09-26,Gas Station,-219.71,USD,debit
+2025-09-26,Hotel Booking,-90.71,USD,debit
+2025-09-27,Movie Tickets,-192.47,USD,debit
+2025-09-27,Toy Shop,-85.13,USD,debit
+2025-09-29,Domino's Pizza,-69.14,USD,debit
+2025-09-30,Amazon Marketplace,-285.26,USD,debit
+2025-09-30,Headspace Subscription,-6.82,USD,debit
+2025-09-30,Walmart+ Subscription,-12.9,USD,debit
+2025-09-30,Hardware Depot,-189.99,USD,debit
+2025-10-01,Azure Subscription,-24.82,USD,debit
+2025-10-02,Spotify Refund,-161.76,USD,debit
+2025-10-02,Shell Gas Station,-104.76,USD,debit
+2025-10-02,Local Diner,-332.64,USD,debit
+2025-10-04,Fastmail Subscription,-3.92,USD,debit
+2025-10-04,Asana Subscription,-14.18,USD,debit
+2025-10-07,QuickBooks Subscription,-25.22,USD,debit
