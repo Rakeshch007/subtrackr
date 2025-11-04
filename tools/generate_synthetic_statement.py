@@ -28,7 +28,7 @@ import matplotlib.pyplot as plt
 from matplotlib.backends.backend_pdf import PdfPages
 
 # ------------- CONFIG -------------
-MONTHS_BACK = 6
+MONTHS_BACK = 12
 OUT_DIR = Path("synthetic_data")
 ACCOUNT_HOLDER = "John Doe"
 # New random seed each run for uniqueness; set e.g. SEED=1234 to reproduce.
@@ -49,78 +49,78 @@ def first_day_n_months_ago(n: int) -> date:
 # (name, typical_amount, cadence_label)
 # cadence_label in {"weekly","monthly","quarterly","yearly"} (we'll map to days)
 SUB_BRANDS_POOL: List[Tuple[str, float, str]] = [
-    # Entertainment / Streaming
-    ("Netflix", 15.99, "monthly"), ("Disney+", 12.99, "monthly"),
-    ("Max", 13.99, "monthly"), ("Hulu", 11.99, "monthly"),
-    ("Prime Video", 14.99, "monthly"), ("Apple TV+", 6.99, "monthly"),
-    ("Paramount+", 9.99, "monthly"), ("Peacock", 5.99, "monthly"),
-    ("Crunchyroll", 7.99, "monthly"), ("ESPN+", 9.99, "monthly"),
+        # Entertainment / Streaming
+    ("Netflix", 17.99, "monthly"), ("Disney+", 12.00, "monthly"),
+    ("Max", 10.99, "monthly"), ("Hulu", 7.99, "monthly"),
+    ("Prime Video", 8.99, "monthly"), ("Apple TV+", 12.99, "monthly"),
+    ("Paramount+", 7.99, "monthly"), ("Peacock", 10.99, "monthly"),
+    ("Crunchyroll", 7.99, "monthly"), ("ESPN+", 10.99, "monthly"),
     ("DAZN", 19.99, "monthly"),
     # Music / Audio
-    ("Spotify Premium", 9.99, "monthly"), ("Apple Music", 10.99, "monthly"),
-    ("YouTube Premium", 11.99, "monthly"), ("YouTube Music", 10.99, "monthly"),
+    ("Spotify Premium", 10.99, "monthly"), ("Apple Music", 10.99, "monthly"),
+    ("YouTube Premium", 13.99, "monthly"), ("YouTube Music", 10.99, "monthly"),
     ("TIDAL", 10.99, "monthly"), ("Audible", 14.95, "monthly"),
-    ("SiriusXM", 10.99, "monthly"),
+    ("SiriusXM", 11.99, "monthly"),
     # News / Magazines
-    ("NYTimes", 8.00, "monthly"), ("WSJ", 9.99, "monthly"),
-    ("Washington Post", 7.99, "monthly"), ("The Economist", 15.99, "monthly"),
-    ("Bloomberg", 19.99, "monthly"), ("Financial Times", 15.99, "monthly"),
+    ("NYTimes", 25.00, "monthly"), ("WSJ", 38.99, "monthly"),
+    ("Washington Post", 12.00, "monthly"), ("The Economist", 19.00, "monthly"),
+    ("Bloomberg", 34.99, "monthly"), ("Financial Times", 39.00, "monthly"),
     ("Medium", 5.00, "monthly"),
     # Gaming
-    ("PlayStation Plus", 9.99, "monthly"), ("Xbox Game Pass", 14.99, "monthly"),
-    ("Nintendo Switch Online", 3.99, "monthly"), ("Twitch Turbo", 8.99, "monthly"),
+    ("PlayStation Plus", 9.99, "monthly"), ("Xbox Game Pass", 10.99, "monthly"),
+    ("Nintendo Switch Online", 3.99, "monthly"), ("Twitch Turbo", 11.99, "monthly"),
     # Productivity / Software
-    ("Adobe Creative Cloud", 52.99, "monthly"), ("Photoshop", 20.99, "monthly"),
-    ("Microsoft 365", 6.99, "monthly"), ("Notion", 8.00, "monthly"),
-    ("Slack", 9.99, "monthly"), ("Zoom Pro", 14.99, "monthly"),
-    ("Canva Pro", 12.49, "monthly"), ("Figma", 15.00, "monthly"),
+    ("Adobe Creative Cloud", 59.99, "monthly"), ("Photoshop", 22.99, "monthly"),
+    ("Microsoft 365", 6.99, "monthly"), ("Notion", 10.00, "monthly"),
+    ("Slack", 8.75, "monthly"), ("Zoom Pro", 14.99, "monthly"),
+    ("Canva Pro", 14.99, "monthly"), ("Figma", 15.00, "monthly"),
     ("Asana", 13.49, "monthly"), ("Monday.com", 12.00, "monthly"),
-    ("Evernote", 7.99, "monthly"), ("Grammarly", 29.99, "monthly"),
-    ("Dropbox", 11.99, "monthly"), ("Box", 12.00, "monthly"),
+    ("Evernote", 10.83, "monthly"), ("Grammarly", 30.00, "monthly"),
+    ("Dropbox", 11.99, "monthly"), ("Box", 15.00, "monthly"),
     ("OneDrive", 6.99, "monthly"),
     # Developer / Cloud
-    ("GitHub", 4.00, "monthly"), ("GitLab", 4.00, "monthly"),
-    ("Bitbucket", 3.00, "monthly"), ("DigitalOcean", 10.00, "monthly"),
-    ("Linode", 10.00, "monthly"), ("Heroku", 7.00, "monthly"),
+    ("GitHub", 4.00, "monthly"), ("GitLab", 29.00, "monthly"),
+    ("Bitbucket", 15.00, "monthly"), ("DigitalOcean", 4.00, "monthly"),
+    ("Linode", 5.00, "monthly"), ("Heroku", 5.00, "monthly"),
     ("Vercel", 20.00, "monthly"), ("Netlify", 19.00, "monthly"),
-    ("Render", 10.00, "monthly"), ("Cloudflare", 5.00, "monthly"),
+    ("Render", 7.00, "monthly"), ("Cloudflare", 5.00, "monthly"),
     ("AWS", 25.00, "monthly"), ("GCP", 25.00, "monthly"),
     ("Azure", 25.00, "monthly"),
     # Storage / Backup
     ("Google One", 1.99, "monthly"), ("Apple iCloud", 0.99, "monthly"),
-    ("Backblaze", 7.00, "monthly"), ("IDrive", 6.00, "monthly"),
-    ("MEGA", 5.00, "monthly"),
+    ("Backblaze", 7.00, "monthly"), ("IDrive", 2.95, "monthly"),
+    ("MEGA", 6.07, "monthly"),
     # Security / VPN / Passwords
     ("1Password", 2.99, "monthly"), ("LastPass", 3.00, "monthly"),
-    ("Dashlane", 2.99, "monthly"), ("Malwarebytes", 3.99, "monthly"),
-    ("NordVPN", 9.99, "monthly"), ("ExpressVPN", 12.99, "monthly"),
-    ("Surfshark", 3.00, "monthly"), ("Proton VPN", 5.00, "monthly"),
+    ("Dashlane", 4.99, "monthly"), ("Malwarebytes", 4.99, "monthly"),
+    ("NordVPN", 12.99, "monthly"), ("ExpressVPN", 12.95, "monthly"),
+    ("Surfshark", 2.49, "monthly"), ("Proton VPN", 4.99, "monthly"),
     # Education / Learning
-    ("Coursera Plus", 39.99, "monthly"), ("Udemy Membership", 19.99, "monthly"),
-    ("Skillshare", 12.00, "monthly"), ("LinkedIn Learning", 29.99, "monthly"),
-    ("Duolingo Plus", 6.99, "monthly"), ("Babbel", 6.99, "monthly"),
-    ("Brilliant", 12.49, "monthly"), ("Chegg", 14.95, "monthly"),
+    ("Coursera Plus", 59.00, "monthly"), ("Udemy Membership", 29.99, "monthly"),
+    ("Skillshare", 15.00, "monthly"), ("LinkedIn Learning", 39.99, "monthly"),
+    ("Duolingo Plus", 6.99, "monthly"), ("Babbel", 12.95, "monthly"),
+    ("Brilliant", 12.49, "monthly"), ("Chegg", 19.95, "monthly"),
     # Fitness / Wellness
-    ("Peloton", 12.99, "monthly"), ("Fitbit Premium", 9.99, "monthly"),
-    ("Strava", 7.99, "monthly"), ("MyFitnessPal", 9.99, "monthly"),
-    ("Headspace", 7.99, "monthly"), ("Calm", 6.49, "monthly"),
+    ("Peloton", 24.00, "monthly"), ("Fitbit Premium", 9.99, "monthly"),
+    ("Strava", 11.99, "monthly"), ("MyFitnessPal", 19.99, "monthly"),
+    ("Headspace", 12.99, "monthly"), ("Calm", 14.99, "monthly"),
     # Finance / Budgeting
-    ("YNAB", 8.99, "monthly"), ("QuickBooks", 25.00, "monthly"),
-    ("Xero", 25.00, "monthly"), ("Rocket Money", 5.00, "monthly"),
+    ("YNAB", 14.99, "monthly"), ("QuickBooks", 30.00, "monthly"),
+    ("Xero", 13.00, "monthly"), ("Rocket Money", 4.00, "monthly"),
     # Shopping / Memberships
     ("Amazon Prime", 14.99, "monthly"), ("Walmart+", 12.95, "monthly"),
     ("Costco Membership", 60.00, "yearly"), ("Sam's Club", 50.00, "yearly"),
     # Mobility
     ("Uber One", 9.99, "monthly"), ("Lyft Pink", 9.99, "monthly"),
     # Communication / Email
-    ("Google Workspace", 6.00, "monthly"), ("Proton Mail", 5.00, "monthly"),
-    ("Fastmail", 5.00, "monthly"),
+    ("Google Workspace", 6.00, "monthly"), ("Proton Mail", 4.99, "monthly"),
+    ("Fastmail", 3.00, "monthly"),
     # AI / Creative
     ("ChatGPT Plus", 20.00, "monthly"), ("Claude Pro", 20.00, "monthly"),
     ("Midjourney", 10.00, "monthly"), ("GitHub Copilot", 10.00, "monthly"),
-    ("Jasper AI", 20.00, "monthly"),
+    ("Jasper AI", 49.00, "monthly"),
     # Quarterly/Yearly extras
-    ("Antivirus Suite", 39.99, "yearly"), ("Cloud Backup Pro", 24.00, "quarterly"),
+    ("Antivirus Suite", 39.99, "yearly"), ("Cloud Backup Pro", 24.00, "quarterly")
 ]
 
 NOISE_MERCHANTS = [
